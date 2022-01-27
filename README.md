@@ -3,10 +3,10 @@ Este repositório contém a atividade prática do Curso "Sintaxe e Operadores", 
 
 A atividade consiste nas seguintes etapas:
 
-Criar uma função que recebe dois números como parâmetros.
+1.Criar uma função que recebe dois números como parâmetros.
 
-Conferir se os números são iguais.
+2.Conferir se os números são iguais.
 
-Conferir se a soma dos números é maior que 10 ou menor que 20.
+3.Conferir se a soma dos números é maior que 10 ou menor que 20.
 
-Retornar uma string dizendo "Os números num1 e num2 não/são iguais. Sua soma é soma, que é maior/menor que 10 e maior/menor que 20".
+4.Retornar uma string dizendo "Os números num1 e num2 não/são iguais. Sua soma é soma, que é maior/menor que 10 e maior/menor que 20".
